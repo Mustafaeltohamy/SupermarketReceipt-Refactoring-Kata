@@ -1,6 +1,6 @@
 from model_objects import Offer
 from receipt import Receipt
- 
+
 
 class Teller:
 
